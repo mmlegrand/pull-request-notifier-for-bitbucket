@@ -6,6 +6,17 @@ Changelog of Pull Request Notifier for Bitbucket.
 ### No issue
   doc
   
+  [a852a8e77c67485](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/a852a8e77c67485) Tomas Bjerre *2017-04-05 18:16:37*
+
+## 2.62
+### GitHub [#211](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/issues/211) https proxy settings
+  Adding optional schema to proxy configuration
+  
+  [ec83352a2f7098a](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/ec83352a2f7098a) Tomas Bjerre *2017-04-05 18:10:26*
+
+### No issue
+  doc
+  
   [34e16b98c5fde82](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/34e16b98c5fde82) Tomas Bjerre *2017-03-25 08:02:02*
 
 ## 2.61
@@ -1246,6 +1257,8 @@ java.util.Base64 is available since 1.8 and javax.xml.bind.DatatypeConverter sin
   
   [36f99c11d31c763](https://github.com/tomasbjerre/pull-request-notifier-for-bitbucket/commit/36f99c11d31c763) Raimana *2015-04-01 09:24:20*
 
+## 1.1
+### No issue
   Adding support for PULL_REQUEST_FROM/TO_HASH, filters and fixing authentication bug
 * Making it compatible with Stash 2.12.0
 * Some more documentation
